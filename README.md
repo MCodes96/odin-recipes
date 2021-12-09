@@ -9,3 +9,6 @@ Even though this is just repetition, I'm still excited to take on
 the "challenge".
 
 ### After the project
+As expected this project was simple but it still doesn't fail to present
+how websites are structured and how each webpage adds up to a "website".
+I used basic html tags in this project.
